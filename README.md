@@ -40,7 +40,7 @@ To run EncryptoGuard, you need Python 3.x installed on your system.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/YourUsername/EncryptoGuard.git
+    git clone https://github.com/StrykarBoston/EncryptoGuard.git
     cd EncryptoGuard
     ```
 
