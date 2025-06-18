@@ -57,6 +57,9 @@ To run EncryptoGuard, you need Python 3.x installed on your system.
     python EncryptoGuard.py
     ```
 
+![Task-1](https://github.com/user-attachments/assets/b2e95195-4b79-4dc4-8af8-32920ffeab83)
+
+
 2.  **Using the Message Encryptor/Decryptor:**
     * Enter your message in the "Message:" text area.
     * Input a strong password in the "Password:" field. You can toggle its visibility using the "Show/Hide" button.
